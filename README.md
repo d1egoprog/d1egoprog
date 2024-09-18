@@ -15,7 +15,6 @@ I'm a **Computer Science Researcher** with over 15+ years of experience across *
 [![Scopus](https://img.shields.io/badge/Scopus-57205705016-blue?style=flat-square&logo=scopus&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57205705016)
 [![Semantic Scholar](https://img.shields.io/badge/SemanticScholar-Rincon--Yanez,Diego-blue?style=flat-square&logo=semantic-scholar&logoColor=white)](https://www.semanticscholar.org/author/Diego-Rincon-Yanez/2045763968)
 
-🔭 Currently working on **Neuro-Symbolic AI** and **Knowledge Graphs**.
 
 ### 🌐 Other Social Pages
 
@@ -37,9 +36,14 @@ I'm a **Computer Science Researcher** with over 15+ years of experience across *
 
 ### 🌟 Highlighted Research Papers
 
-- **Scaling Scientific Knowledge Discovery with Neuro-Symbolic AI and Large Language Models** - [REPO](https://github.com/d1egoprog/KG-SLR4LLM) - [LINK](https://ceur-ws.org/Vol-3759/workshop4.pdf)
-- **Enhancing downstream tasks in Knowledge Graphs Embeddings: A Complement Graph-based Approach Applied to Bilateral Trade** - [REPO](https://github.com/d1egoprog/SyntheticTriples) - [DOI](https://doi.org/10.1016/j.procs.2023.10.364)
-- **FAIR Knowledge Graph construction from text, an approach applied to fictional novels** - [REPO](https://github.com/d1egoprog/Text2KG) - [LINK](http://ceur-ws.org/Vol-3184/TEXT2KG_Paper_7.pdf)
+- **Scaling Scientific Knowledge Discovery with Neuro-Symbolic AI and Large Language Models**
+  * [REPO](https://github.com/d1egoprog/KG-SLR4LLM) - [LINK](https://ceur-ws.org/Vol-3759/workshop4.pdf)
+- **Enhancing downstream tasks in Knowledge Graphs Embeddings: A Complement Graph-based Approach Applied to Bilateral Trade**
+  * [REPO](https://github.com/d1egoprog/SyntheticTriples) - [DOI](https://doi.org/10.1016/j.procs.2023.10.364)
+- **FAIR Knowledge Graph construction from text, an approach applied to fictional novels**
+  * [REPO](https://github.com/d1egoprog/Text2KG) - [LINK](http://ceur-ws.org/Vol-3184/TEXT2KG_Paper_7.pdf)
+
+🔭 Currently working on **Neuro-Symbolic AI** and **Knowledge Graphs**.
 
 ![License](https://img.shields.io/github/license/d1egoprog/d1egoprog?style=flat)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=d1egoprog.d1egoprog)
